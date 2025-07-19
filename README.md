@@ -48,6 +48,7 @@ Make sure you have these libraries installed:
 
 ```bash
 pip install ipywidgets fpdf
+```
 
 
 ## 👩‍💻 Author
