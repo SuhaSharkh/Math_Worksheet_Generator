@@ -52,4 +52,4 @@ pip install ipywidgets fpdf
 
 ## 👩‍💻 Author
 
-Suha Abou-Sharkh
+[Suha Abou-Sharkh](https://github.com/your-username) – Python enthusiast
