@@ -8,8 +8,9 @@ This is a simple Python app that generates printable math worksheets for kids ag
 - Answer key with worksheet references
 - PDF output
 
-## Screenshot
-![App Screenshot](App Window.PNG)
+## Screenshot  
+![App Screenshot](App%20Window.PNG)
+
 
 ## How to Run
 Open the `Math_WorkSheet_Generator.ipynb` notebook and run all cells.
