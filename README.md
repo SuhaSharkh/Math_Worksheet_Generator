@@ -13,6 +13,6 @@ This is a simple Python app that generates printable math worksheets for kids ag
 
 
 ## How to Run
-[Open the notebook](Math_WorkSheet_Generator.ipynb) and run all cells.
+[Open the Math_WorkSheet_Generator.ipynb notebook](Math_WorkSheet_Generator.ipynb) and run all cells.
 
 ---
