@@ -29,7 +29,7 @@ A beginner-friendly Python app to generate math worksheets for kids aged 6–10.
 - **Adjustable Question Count**  
   You can choose how many questions to generate (e.g., 10, 20, 30...) based on the student’s level or available time.
 
-- 🖨**PDF Export with Answer Key**  
+- **PDF Export with Answer Key**  
   Download and print the worksheet and answer key in one click.
 
 - **Clean and Kid-Friendly Layout**  
