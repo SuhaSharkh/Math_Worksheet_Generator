@@ -1,6 +1,6 @@
 # 🧮 Math Worksheet Generator for Kids (Ages 6–10)
 
-A beginner-friendly Python app to generate math worksheets for kids aged 6–10. Create randomized addition, subtraction, multiplication, and division problems — all exported in a clean, printable PDF format with an included answer key
+A beginner-friendly Python app to generate math worksheets for kids aged 6–10. Create randomized addition, subtraction, multiplication, and division problems — all exported in a clean, printable PDF format with an included answer key.
 
 ---
 
@@ -34,12 +34,6 @@ A beginner-friendly Python app to generate math worksheets for kids aged 6–10.
 
 - **Clean and Kid-Friendly Layout**  
   Spacing and formatting designed for children aged 6–10.
-
----
-
-### 📸 Screenshot
-
-![App Screenshot](App%20Window.PNG)
 
 ---
 
