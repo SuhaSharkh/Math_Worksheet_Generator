@@ -1,14 +1,15 @@
-# Byte-compiled / optimized / DLL files
+# Ignore Python cache
 __pycache__/
 *.py[cod]
-*.so
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+# Ignore Jupyter Notebook checkpoints
+*.ipynb_checkpoints
 
-# PDF and output files
-*.pdf
+# Ignore macOS hidden files
+.DS_Store
 
-# Environment files
-.env
-.venv
+# Ignore virtual environments
+venv/
+
+# Ignore log files
+*.log
